@@ -1,5 +1,3 @@
-## Welcome
-
 # Day 1
 
 mempelajari hal-hal umum seputar komputer dan dasar pemrograman
